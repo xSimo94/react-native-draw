@@ -1,4 +1,5 @@
 {
+  "version": "0.0.1",
   "description": "Cross-platform React Native drawing component",
   "private": true,
   "workspaces": {
