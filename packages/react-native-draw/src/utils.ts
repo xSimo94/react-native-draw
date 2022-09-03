@@ -1,4 +1,4 @@
-import simplifySvgPath from '@luncheon/simplify-svg-path';
+import simplifySvgPath from './simplify-svg-path.js';
 import type { PathDataType } from './types';
 
 export const createSVGPath = (
